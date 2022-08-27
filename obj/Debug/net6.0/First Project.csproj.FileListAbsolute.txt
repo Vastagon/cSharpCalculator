@@ -1,0 +1,15 @@
+C:\Users\jyancey\source\repos\First Project\bin\Debug\net6.0\First Project.exe
+C:\Users\jyancey\source\repos\First Project\bin\Debug\net6.0\First Project.deps.json
+C:\Users\jyancey\source\repos\First Project\bin\Debug\net6.0\First Project.runtimeconfig.json
+C:\Users\jyancey\source\repos\First Project\bin\Debug\net6.0\First Project.dll
+C:\Users\jyancey\source\repos\First Project\bin\Debug\net6.0\First Project.pdb
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\First Project.csproj.AssemblyReference.cache
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\First Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\First Project.AssemblyInfoInputs.cache
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\First Project.AssemblyInfo.cs
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\First Project.csproj.CoreCompileInputs.cache
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\First Project.dll
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\refint\First Project.dll
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\First Project.pdb
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\First Project.genruntimeconfig.cache
+C:\Users\jyancey\source\repos\First Project\obj\Debug\net6.0\ref\First Project.dll
